@@ -1,7 +1,9 @@
-HOMEPAGE- https://astopcu.github.io/bim222hw/index.htm
-FILMS- https://astopcu.github.io/bim222hw/films.htm
-BOOKS- https://astopcu.github.io/bim222hw/books.htm
-MUSICS- https://astopcu.github.io/bim222hw/musics.htm
-USEFUL LINKS- https://astopcu.github.io/bim222hw/useful_links.htm
-CONTACT ME- https://astopcu.github.io/bim222hw/contact_me.htm
-REGISTER- https://astopcu.github.io/bim222hw/register.htm
+HOMEPAGE- https://astopcu.github.io/bim222hw2/index.htm
+FILMS- https://astopcu.github.io/bim222hw2/films.htm
+BOOKS- https://astopcu.github.io/bim222hw2/books.htm
+MUSICS- https://astopcu.github.io/bim222hw2/musics.htm
+USEFUL LINKS- https://astopcu.github.io/bim222hw2/useful_links.htm
+CONTACT ME- https://astopcu.github.io/bim222hw2/contact_me.htm
+REGISTER- https://astopcu.github.io/bim222hw2/register.htm
+
+
